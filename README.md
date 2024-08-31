@@ -1,4 +1,4 @@
-# Impact of Economic Indicators on Stock Market Performance in [Country]: A Panel Data Analysis
+# Impact of Economic Indicators on Stock Market Performance: A Panel Data Analysis
 
 ## Project Overview
 This project analyzes the impact of economic indicators on stock market performance in simulated countries A and B. I focused on synthetic data that includes data generation, merging datasets, cleaning and preprocessing data, and conducting regression and panel data analysis using STATA.
